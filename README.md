@@ -6,7 +6,7 @@ Poland and Germany. My job is app content and design, and more and more of
 it is content engineering: treating content as data, not only as creative
 work.
 
-I'm not a developer. I vibecode the tools I need myself, with AI.
+I vibecode the tools I need myself, with AI.
 
 - **OPP Generator 3000**: my tool for the in-app opportunities ("oppky")
   in Patron GO. A rough template, AI and 30+ parameters (trigger, user
