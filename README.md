@@ -8,7 +8,7 @@ Most of my work is app content and design. Lately it has turned into what people
 call content engineering, which basically means I look at content as data a lot
 more than I used to.
 
-I'm not a developer, but I build my own little tools with Claude Code. The best
+I build my own little tools with Claude Code. The best
 known one is OPP Generator 3000 (named after those old vacuum cleaners with 3000
 in the name, it sounded futuristic 😄). It writes the in-app "oppky" for Patron GO
 from a rough template and 30+ parameters, in four languages. One oppka used to
