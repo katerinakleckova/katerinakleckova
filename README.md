@@ -19,5 +19,5 @@ are cats in it. 🐱
 Apart from that I design app screens and mockups in Figma and work on the
 Patron GO website.
 
-I studied at the University of Ostrava and live in Prague. Say hi on
+I live in Prague. Say hi on
 [LinkedIn](https://www.linkedin.com/in/kate%C5%99ina-kle%C4%8Dkov%C3%A1-b606492a5/).
